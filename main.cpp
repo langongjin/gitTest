@@ -27,6 +27,7 @@ int main()
   *p = 2;
   std::cout << "i: " << i << std::endl;
   std::cout << "this is testing for branch1" << std::endl;
+  std::cout << "this is testing for branch2" << std::endl;
 }
 
 //int main()
