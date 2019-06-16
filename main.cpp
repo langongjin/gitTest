@@ -28,6 +28,7 @@ int main()
   std::cout << "i: " << i << std::endl;
   std::cout << "this is testing for branch1" << std::endl;
   std::cout << "this is testing for branch2" << std::endl;
+  std::cout << "this is testing for merge branch2" << std::endl;
 }
 
 //int main()
