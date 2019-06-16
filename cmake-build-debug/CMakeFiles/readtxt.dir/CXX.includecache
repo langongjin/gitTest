@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/lan/.gazebo/plugins/cameraSingle_plugin/readtxt/main.cpp
+iostream
+-
+fstream
+-
+cstdlib
+-
+termios.h
+-
+unistd.h
+-
+stdio.h
+-
+numeric
+-
+cmath
+-
+vector
+-
+iostream
+-
+
